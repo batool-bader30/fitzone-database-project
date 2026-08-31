@@ -18,7 +18,7 @@ This project demonstrates core concepts of relational database design, data inte
 
 ---
 
-## 📂 Project Structureس
+## 📂 Project Structure
 
 The project is structured into **5 modular SQL files** for easy setup and execution:
 
